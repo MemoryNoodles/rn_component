@@ -5,7 +5,7 @@ import { pTd } from "../../tools/tool";
 
 
 
-export default class Banner extends React.Component {
+export default class CommonBanner extends React.Component {
     constructor(props) {
         super(props);
         this.state={
